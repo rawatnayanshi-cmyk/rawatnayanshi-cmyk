@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Nayanshi Rawat👋
 
-<!--
-**rawatnayanshi-cmyk/rawatnayanshi-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science & AI Student @AAFT University**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 **I’m a Student exploring the world of Data Science and Artificial Ingtelligence.Currently focused on learning,building , and understanding how the tech shapes the future.**
+- 🎓Studying at **AAFT University**
+- 🌱 I’m currently learning ... **Python Fundamentals ,Statistical Approaches,Relational Databases, Business Intelligence and Data Science Essentials.**
+- 📫 How to reach me: ...**rawatnayanshi@gmail.com**
+- 😄 Pronouns: ...**she/her**
+- ⚡ Fun fact: ...**I Love Tech**
+- [LinkedIn]  www.linkedin.com/in/nayanshi-rawat-8a012736b
+- Thanks for stopping by!
 -->
