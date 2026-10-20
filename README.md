@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding animation" width="280"src="https://github.com/rudrabarad/Gifs"/>
+<img align="right" alt="Coding animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Hi, I'm **Nayanshi Rawat** 👋
 
