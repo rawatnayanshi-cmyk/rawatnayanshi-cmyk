@@ -67,28 +67,9 @@ I'm a curious student exploring the world of Data Science and Artificial Intelli
 
 ---
 
-## 🚀 Featured Project
 
-<div align="center">
 
-### 🚦 Road Accident Analysis Dashboard
 
-<img src="https://img.shields.io/badge/POWER%20BI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/POWER%20QUERY-Data%20Cleaning-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Power Query"/>
-
-</div>
-
-A data analysis project focused on understanding road accident patterns and identifying the areas and reasons associated with accidents.
-
-**What I worked on:**
-
-- Cleaned and transformed messy data using Power Query.
-- Handled null values and prepared the dataset for analysis.
-- Created key performance indicators (KPIs) to measure important metrics.
-- Built charts and visualizations based on the project's analytical requirements.
-- Explored accident patterns to support data-driven insights.
-
-**Goal:** Turn raw accident data into meaningful visual insights that make patterns easier to understand.
 
 ---
 
