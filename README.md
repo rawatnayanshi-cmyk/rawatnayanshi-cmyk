@@ -73,20 +73,25 @@ I'm a curious student exploring the world of Data Science and Artificial Intelli
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF&text_color=FFFFFF" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/Most%20Used%20Language-Python%20(Jupyter%20Notebook)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Most Used Language"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Most used programming languages"/>
+<br><br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF" alt="GitHub contribution streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B61FF&text_color=FFFFFF" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 
 </div>
-
----
-
 ## 🐍 My Contribution Journey
 
 <div align="center">
