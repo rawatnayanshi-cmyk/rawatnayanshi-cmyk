@@ -73,7 +73,7 @@ Exploring road accident patterns through data cleaning, KPI creation, and dashbo
 - KPIs and interactive charts
 - Location and accident-reason analysis
 
-[🔗 Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
 
 </td>
 <td width="50%">
@@ -88,7 +88,7 @@ Practicing Python programming and developing my understanding of data analysis a
 - Data manipulation
 - Machine learning concepts
 
-[🔗 Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ Practicing Python programming and developing my understanding of data analysis a
 
 Exploring cloud technology and learning how AWS services can support data-driven applications.
 
-[🔗 Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
 
 </td>
 <td width="50%">
@@ -108,7 +108,7 @@ Exploring cloud technology and learning how AWS services can support data-driven
 
 Building foundational knowledge of artificial intelligence, deep learning, and natural language processing.
 
-[🔗 Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
 
 </td>
 </tr>
