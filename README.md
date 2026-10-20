@@ -116,7 +116,7 @@ I'm a curious student exploring the world of Data Science and Artificial Intelli
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/rawatnayanshi-cmyk">
 <img src="https://img.shields.io/badge/GitHub-Profile-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub profile"/>
 </a>
 
@@ -131,7 +131,7 @@ I'm a curious student exploring the world of Data Science and Artificial Intelli
 <br/><br/>
 
 <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=social&label=Follow%20me" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/rawatnayanshi-cmyk?style=social&label=Follow%20me" alt="GitHub followers"/>
 </a>
 
 </div>
