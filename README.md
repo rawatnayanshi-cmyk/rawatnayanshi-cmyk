@@ -107,19 +107,7 @@ I'm a curious student exploring the world of Data Science and Artificial Intelli
 
 </div>
 
-## 🔝 Top Contributed Repository
 
-<div align="center">
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME?tab=repositories">
-<img src="https://github-contributor-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ### 💙 "Stay curious. Keep learning. Let data tell the story."
 
