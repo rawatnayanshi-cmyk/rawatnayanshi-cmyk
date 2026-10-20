@@ -5,9 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student+%F0%9F%8E%93;Learning+Python+%7C+MySQL+%7C+AWS;Exploring+Deep+Learning+%26+NLP;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Animated introduction"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR-GITHUB-USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)](https://github.com/YOUR-GITHUB-USERNAME)
-[![GitHub repositories](https://img.shields.io/badge/Explore-My_Repositories-7B61FF?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
 
 </div>
 
