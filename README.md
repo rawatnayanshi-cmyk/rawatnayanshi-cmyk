@@ -57,62 +57,11 @@ I'm a curious student exploring the world of Data Science and Artificial Intelli
 
 </div>
 
-## 🚀 Projects & Practical Learning
 
-<table>
-<tr>
-<td width="50%">
 
-### 🚗 Road Accident Analysis
 
-Exploring road accident patterns through data cleaning, KPI creation, and dashboard visualization.
 
-**Focus areas:**
-- Power Query data cleaning
-- Missing-value handling
-- KPIs and interactive charts
-- Location and accident-reason analysis
 
-[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
-
-</td>
-<td width="50%">
-
-### 🐍 Python & Data Science
-
-Practicing Python programming and developing my understanding of data analysis and problem-solving.
-
-**Learning focus:**
-- Python fundamentals
-- Statistical approaches
-- Data manipulation
-- Machine learning concepts
-
-[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ AWS & Cloud Computing
-
-Exploring cloud technology and learning how AWS services can support data-driven applications.
-
-[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
-
-</td>
-<td width="50%">
-
-### 🤖 AI & NLP
-
-Building foundational knowledge of artificial intelligence, deep learning, and natural language processing.
-
-[🔗 Explore my repositories](https://github.com/rawatnayanshi-cmyk)
-
-</td>
-</tr>
-</table>
 
 ## 📊 GitHub Analytics
 
